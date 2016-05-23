@@ -1,11 +1,16 @@
 # Markdown demo (det här en rubrik i HTML
 Demonstartion av Markdown
 
-Med Markdown kan vi skapa HTML-kod med mindre text.
 
 Läs mer om Markdown på [Markdowns hemsida](https://daringfireball.net/projects/markdown/basics)
 
-T.ex:
+Andra länkar om Markdown:
+
+* [Basic writing and formatting syntax - User Documentation](https://help.github.com/articles/basic-writing-and-formatting-syntax/)
+* [GitHub Help](https://help.github.com/categories/writing-on-github/)
+* [Mastering Markdown · GitHub Guides](https://guides.github.com/features/mastering-markdown/)
+
+Med Markdown kan vi skapa HTML-kod med mindre text. T.ex:
 
 **Oscar** heter jag. Jag är _lärare_ på Nackademin.
 
@@ -19,8 +24,8 @@ Allt som finns i HTML finns inte i Markdown...
 Det går alltså bra att blanda HTML-kod med "Markdown-kod". 
 
 Används bland annat när vi skriver README-filer på GitHub...
-* MSN messenger (har delar)
-* 
+* MSN messenger (utvalda delar)
+* Slack (utvalda delar)
 
 ```
 console.log("Hello");
